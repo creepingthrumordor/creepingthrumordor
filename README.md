@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2c83f8&size=34&center=true&vCenter=true&width=700&pause=1200&speed=35&lines=Creeping Thru Mordor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2c83f8&size=34&center=true&vCenter=true&width=700&pause=1200&speed=35&lines=YOUR_NAME;YOUR_TAGLINE;YOUR_TITLE" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creepingthrumordor&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=creepingthrumordor&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c83f8,100:8b5cf6&height=5&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
