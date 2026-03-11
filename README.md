@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2c83f8&size=34&center=true&vCenter=true&width=700&pause=1200&speed=35&lines=YOUR_NAME;YOUR_TAGLINE;YOUR_TITLE" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2c83f8&size=34&center=true&vCenter=true&width=700&pause=1200&speed=35&lines=CreepingThruMordor" />
 </p>
 
 <p align="center">
@@ -18,37 +18,30 @@
 
 <td width="220">
 
-### 🎨 Project 1  
-Short description.  
+### 🎨 Theme
+current theme i use
 
-[View](YOUR_LINK)
-
-</td>
-
-<td width="220">
-
-### 🖥️ Project 2  
-Short description.  
-
-[View](YOUR_LINK)
+[View](https://github.com/creepingthrumordor/pale-lain.git)
 
 </td>
 
 <td width="220">
 
-### 🐧 Project 3  
-Short description.  
+### 🖥️ Waybar
+my waybar config  
 
-[View](YOUR_LINK)
+[View](https://github.com/creepingthrumordor/waybar-omarchy.git)
 
 </td>
 
 <td width="220">
 
-### ⚙️ Project 4  
-Short description.  
+### 🌐 Hospital Website
+WDD Assignment  
 
-[View](YOUR_LINK)
+[View](https://github.com/creepingthrumordor/HealthylifeHospitalWebsite.git)
+
+</td>
 
 </td>
 
@@ -56,15 +49,6 @@ Short description.
 </table>
 
 </div>
-
----
-
-```bash
-NAME   : Your Name
-AGE    : Your Age
-OS     : Your OS
-WM     : Your Desktop/WM
-Shell  : Your Shell
-Editor : Your Editor
-Specs  : Your Hardware
-Theme  : Your Aesthetics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creepingthrumordor&bg_color=0d1117&color=c9d1d9&line=2C7BE8&point=2C7BE8&hide_border=true&area=true&custom_title=Recent%20Activity" />
+</p>
