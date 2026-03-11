@@ -27,7 +27,7 @@ Current Config I Use
 <td width="220">
 
 ### 🖥️ Waybar
-my waybar config  
+My Waybar Config  
 
 [View](https://github.com/creepingthrumordor/waybar-omarchy.git)
 
