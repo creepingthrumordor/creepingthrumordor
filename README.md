@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-    Brief bio about what you enjoy.<br/>
-    Bullet • Point • Highlights.
+  <b>    Welcome To My Profile </b>
 </p>
 
 <div align="center">
@@ -19,7 +18,7 @@
 <td width="220">
 
 ### 🎨 Theme
-current theme i use
+Current Config I Use
 
 [View](https://github.com/creepingthrumordor/pale-lain.git)
 
