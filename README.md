@@ -1,5 +1,21 @@
 #  Welcome
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        
+### About Me
+Passionate developer working on cool Linux themes and utilities.
+
+      </td>
+      <td align="right">
+        <img src="https://media.tenor.com/Gq3L__OzcwIAAAAC/opsec-mullvad-vpn-security.gif" width="300" alt="OPSEC">
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## My Repositories
 
 - [eva-bar](https://github.com/creepingthrumordor/eva-bar) - bar shaped bar for omarchy quattro
