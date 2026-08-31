@@ -1,7 +1,7 @@
 # Welcome
 
 <p align="left">
-  <img align="left" src="opsec-mullvad.gif" width="300" alt="OPSEC" />
+  <img align="right" src="opsec-mullvad.gif" width="800" alt="OPSEC" />
 </p>
 
 <b>My Repos</b>
