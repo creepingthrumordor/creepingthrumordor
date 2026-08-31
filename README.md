@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="opsec-mullvad.gif" alt="OPSEC" width="50%" height= "20%">
+  <img src="op.png" alt="OPSEC" width="100%">
 </p>
 
-<h3>my Repos</h3>
+<h3>my repos</h3>
 
 - [quickshell bar](https://github.com/creepingthrumordor/eva-bar)
 - [evangelion theme for omarchy](https://github.com/creepingthrumordor/eva)
