@@ -1,53 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2c83f8&size=34&center=true&vCenter=true&width=700&pause=1200&speed=35&lines=Greetings" />
-</p>
+# Afil Musthafa
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c83f8,100:8b5cf6&height=5&section=header&animation=fadeIn" />
-</p>
+## My Repositories
 
-<p align="center">
-  <b>    Welcome To My Profile </b>
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="220">
-
-### 🎨 Theme
-Current Config I Use
-
-[View](https://github.com/creepingthrumordor/pale-lain.git)
-
-</td>
-
-<td width="220">
-
-### 🖥️ Waybar
-My Waybar Config  
-
-[View](https://github.com/creepingthrumordor/waybar-omarchy.git)
-
-</td>
-
-<td width="220">
-
-### 🌐 Hospital Website
-WDD Assignment  
-
-[View](https://github.com/creepingthrumordor/HealthylifeHospitalWebsite.git)
-
-</td>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creepingthrumordor&bg_color=0d1117&color=c9d1d9&line=2C7BE8&point=2C7BE8&hide_border=true&area=true&custom_title=Recent%20Activity" />
-</p>
+- [eva-bar](https://github.com/creepingthrumordor/eva-bar) - bar shaped bar for omarchy quattro
+- [eva](https://github.com/creepingthrumordor/eva)
+- [waybar-omarchy](https://github.com/creepingthrumordor/waybar-omarchy) - ascii style waybar for arch linux
+- [DSA](https://github.com/creepingthrumordor/DSA) - Codes Used in the Data Structures & Algorithms Assignment
+- [pale-lain](https://github.com/creepingthrumordor/pale-lain) - pale green lain theme for omarchy ( arch linux )
+- [HealthylifeHospitalWebsite](https://github.com/creepingthrumordor/HealthylifeHospitalWebsite)
+- [milk-inside-a-bag-of-milk](https://github.com/creepingthrumordor/milk-inside-a-bag-of-milk) - Omarchy theme based on the game "Milk inside a bag of milk inside a bag of milk"
+- [purp-omarchy](https://github.com/creepingthrumordor/purp-omarchy) - Purple Omarchy Theme
+- [machine-girl-omarchy](https://github.com/creepingthrumordor/machine-girl-omarchy) - Machine Girl Omarchy Theme
+- [my-swaync-config](https://github.com/creepingthrumordor/my-swaync-config)
