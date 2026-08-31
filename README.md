@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="op.png" alt="OPSEC" width="50%" height= "20%">
+  <img src="op.png" alt="OPSEC" width="40%" height= "40%">
 </p>
 
 <h3>my repos</h3>
