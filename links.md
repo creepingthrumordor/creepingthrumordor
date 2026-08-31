@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="opsec-mullvad.gif" alt="OPSEC" width="50%">
+# Welcome
+
+<p align="left">
+<img align="right" src="opsec-mullvad.gif" height= "500" width="500" alt="OPSEC" />
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
-
-<h3 align="center">welcome to my profile :3</h3>
-
-<p align="center">i'm a catgirl researcher in ml, infosec and game dev～☆</p>
-
-<h3>My Repos</h3>
+<b>My Repos</b>
 
 - [quickshell bar](https://github.com/creepingthrumordor/eva-bar)
 - [evangelion theme for omarchy](https://github.com/creepingthrumordor/eva)
