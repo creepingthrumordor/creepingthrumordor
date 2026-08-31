@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="opsec-mullvad.gif" alt="OPSEC" width="50%">
+  <img src="opsec-mullvad.gif" alt="OPSEC" width="50%" height= "20%">
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
-
-<h3 align="center">welcome to my profile :3</h3>
-
-<p align="center">i'm a catgirl researcher in ml, infosec and game dev～☆</p>
+<h1 align="center">welcome to my profile!</h1>
 
 <h3>My Repos</h3>
 
