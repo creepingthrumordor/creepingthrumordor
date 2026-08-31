@@ -10,7 +10,7 @@ Passionate developer working on cool Linux themes and utilities.
 
       </td>
       <td align="right">
-        <img src="https://media.tenor.com/Gq3L__OzcwIAAAAC/opsec-mullvad-vpn-security.gif" width="300" alt="OPSEC">
+        <img src="opsec-mullvad.gif" width="300" alt="OPSEC">
       </td>
     </tr>
   </table>
