@@ -4,7 +4,7 @@
   <img align="right" src="opsec-mullvad.gif" width="300" alt="OPSEC" />
 </p>
 
-<p><b>My Repositories</b></p>
+<p><b>My Repos</b></p>
 
 - [eva-bar](https://github.com/creepingthrumordor/eva-bar) - bar shaped bar for omarchy quattro
 - [eva](https://github.com/creepingthrumordor/eva)
