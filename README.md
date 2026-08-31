@@ -2,8 +2,6 @@
 
 <p align="left">
   <img align="right" src="opsec-mullvad.gif" width="300" alt="OPSEC" />
-  <b>About Me</b><br />
-  Passionate developer working on cool Linux themes and utilities.
 </p>
 
 <p><b>My Repositories</b></p>
