@@ -1,20 +1,10 @@
-#  Welcome
+# Welcome
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        
-### About Me
-Passionate developer working on cool Linux themes and utilities.
-
-      </td>
-      <td align="right">
-        <img src="opsec-mullvad.gif" width="300" alt="OPSEC">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img align="right" src="opsec-mullvad.gif" width="300" alt="OPSEC" />
+  <b>About Me</b><br />
+  Passionate developer working on cool Linux themes and utilities.
+</p>
 
 ## My Repositories
 
