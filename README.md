@@ -6,7 +6,7 @@
   Passionate developer working on cool Linux themes and utilities.
 </p>
 
-## My Repositories
+<p><b>My Repositories</b></p>
 
 - [eva-bar](https://github.com/creepingthrumordor/eva-bar) - bar shaped bar for omarchy quattro
 - [eva](https://github.com/creepingthrumordor/eva)
