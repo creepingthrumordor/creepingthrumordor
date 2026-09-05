@@ -1,8 +1,30 @@
 <p align="center">
-  <img src="op.png" alt="OPSEC" width="40%" height= "40%">
+  <a href="https://yuna0x0.com">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+  </a>
 </p>
 
-<h3>my repos</h3>
+<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  </a>
+</p>
+<h3 align="center">welcome to my profile :3</h3>
 
-[quickshell bar](https://github.com/creepingthrumordor/eva-bar) • [evangelion theme for omarchy](https://github.com/creepingthrumordor/eva) • [waybar](https://github.com/creepingthrumordor/waybar-omarchy) • [Lain Theme](https://github.com/creepingthrumordor/pale-lain)<br>
-[Hospital Website](https://github.com/creepingthrumordor/HealthylifeHospitalWebsite) • [milk inside a bag of milk theme](https://github.com/creepingthrumordor/milk-inside-a-bag-of-milk) • [machine girl theme](https://github.com/creepingthrumordor/machine-girl-omarchy) • [my swaync config](https://github.com/creepingthrumordor/my-swaync-config)
+<p align="center">i'm a catgirl researcher in ml, infosec and game dev～☆</p>
+
+<p align="center">
+  <strong><a href="https://yuna0x0.com">Website</a></strong> |
+  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
+  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+</p>
+
+<p align="center">
+	<a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>
+	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
+	<a href="https://octo-ring.com/p/yuna0x0/random">🎲</a>
+	<a href="https://octo-ring.com/p/yuna0x0/next">&rarr;</a>
+</p>
